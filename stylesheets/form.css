@@ -218,6 +218,7 @@ input[type="submit"] {
   background-repeat: repeat-x;
   border-color: #9E3428;
   padding: 0 40px;
+  color: white;
 }
 button[disabled],
 html input[disabled] {

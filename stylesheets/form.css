@@ -13,7 +13,11 @@
 
 
 /* Wufoo specific Typography */
-.wufoo {font-family: "aleoregular", Helvetica, Arial, sans-serif;}
+.wufoo {
+	font-family: Helvetica, Arial, sans-serif;
+}
+.wufoo .info h2{
+	font-family: "aleoregular", Helvetica, Arial, sans-serif;
 }
 
 
@@ -460,6 +464,7 @@ h1,
 h2,
 .h2 {
   font-size: 30px;
+  font-family: "aleoregular", Helvetica, Arial, sans-serif;
 }
 h3,
 .h3 {
